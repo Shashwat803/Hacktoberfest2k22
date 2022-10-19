@@ -1,0 +1,26 @@
+body{
+    margin: 10px;
+  }
+  .container{
+    margin-top:100px; 
+    display: flex;
+    justify-content : center;
+  }
+  .btn{
+    margin:0px 10px 0px 10px;
+    padding:10px 10px
+  }
+  
+  #result-all{
+    margin-top:20px;
+    text-align:center;
+  }
+  
+  #end-btn{
+    color:white;
+    border:none;
+    border-radius:10ch;
+    padding:10px 20px;
+    background:red;
+    font-weight: bold;
+  }
